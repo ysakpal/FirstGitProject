@@ -1,0 +1,23 @@
+[33mcommit e3e089fb4cf6b5aab193b3eee8c6a017a7b028b1[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m)[m
+Author: White Ghost <ysakpal20@gmail.com>
+Date:   Fri Aug 27 13:26:16 2021 +0530
+
+    remove command
+
+[33mcommit 96ff2a92b1b420ba64ab6280009fe6a1fec83ef0[m
+Author: White Ghost <ysakpal20@gmail.com>
+Date:   Fri Aug 27 00:34:33 2021 +0530
+
+    checking git diff comand
+
+[33mcommit 42722faac74c41f322acb8c62d7289a48bb9e8cd[m
+Author: White Ghost <ysakpal20@gmail.com>
+Date:   Fri Aug 27 00:21:20 2021 +0530
+
+    some discriptive changes and add grettings.py
+
+[33mcommit 15f24283fd1e9a96009135f6250e0d93597181e6[m
+Author: White Ghost <ysakpal20@gmail.com>
+Date:   Thu Aug 26 23:56:04 2021 +0530
+
+    my firts git commit using git!
